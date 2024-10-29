@@ -1,0 +1,21 @@
+Hello, world D://Temp//IMX_CLT
+                                    FOOBAR: tomcat
+                                    Embed a line break: 
+
+                                    ArtifactId is my-appHello, world D://Temp//IMX_CLT
+                                    FOOBAR: tomcat
+                                    Embed a line break: 
+
+                                    ArtifactId is my-app
+                                    JsonConvertTer: 1.6.1Hello, world D://Temp//IMX_CLT
+                                    FOOBAR: tomcat
+                                    Embed a line break: 
+
+                                    ArtifactId is my-app
+                                    JsonConvertTer: 1.6.1Hello, world D://Temp//IMX_CLT
+                                FOOBAR: tomcat
+                                Embed a line break: 
+
+                                ArtifactId is my-app
+                                JsonConvertTer: 1.6.1
+                                settings: refbg2

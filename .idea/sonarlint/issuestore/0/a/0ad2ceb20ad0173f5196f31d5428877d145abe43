@@ -1,0 +1,12 @@
+
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÉéŽ
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÉéŽ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò‰ÊÓÿÿÿÿÿ
+S
+java:S2589"8Remove this expression which always evaluates to "false"(‘™ªþÿÿÿÿ
+Y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(‘™ªþÿÿÿÿ
+T
+java:S11559">Use isEmpty() to check whether the collection is empty or not.(¬©åš
+@	java:S106S"+Replace this use of System.out by a logger.(³áôÍ
+V	java:S125M"<This block of commented-out lines of code should be removed.(‹ˆ×üûÿÿÿÿ

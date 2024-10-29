@@ -1,0 +1,5 @@
+
+W
+java:S1854	":Remove this useless assignment to local variable "number".(ì¼Ö©8‚Ö¬ð£2
+W
+java:S2123	":Remove this increment or correct the code not to waste it.(ì¼Ö©8‚Ö¬ð£2

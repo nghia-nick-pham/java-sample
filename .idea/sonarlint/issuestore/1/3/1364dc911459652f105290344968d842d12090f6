@@ -1,0 +1,9 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8ÕôŞö£2
+G	java:S1063"+Replace this use of System.out by a logger.(™ø“Ÿ8ßôŞö£2
+e
+java:S1128"IRemove this unused import 'org.apache.logging.log4j.core.util.JsonUtils'.(Ã¢Í~8àôŞö£2
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8àôŞö£2
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8àôŞö£2

@@ -1,0 +1,7 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8ú²×Ã-
+Jsquid:S1481",Remove this unused "strsAbc" local variable.(¥€˜§8ÆÉ€Ã-
+Ysquid:S1854";Remove this useless assignment to local variable "strsAbc".(¥€˜§8ÆÉ€Ã-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çè²»8ÆÉ€Ã-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ8”Ê×Ã-

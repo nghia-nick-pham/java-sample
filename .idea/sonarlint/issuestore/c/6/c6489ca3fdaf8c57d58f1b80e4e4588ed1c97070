@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Ö§Äûÿÿÿÿ
+2
+java:S1116
+"Remove this empty statement.(ÿ­˜¦
+E	java:S106."+Replace this use of System.out by a logger.(£‚î¤ûÿÿÿÿ
+E	java:S1060"+Replace this use of System.out by a logger.(£‚î¤ûÿÿÿÿ
+E	java:S1062"+Replace this use of System.out by a logger.(£‚î¤ûÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ

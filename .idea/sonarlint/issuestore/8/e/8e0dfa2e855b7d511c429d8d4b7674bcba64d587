@@ -1,0 +1,18 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›®õÓ8úû°¸ž2
+\
+java:S3518)"?Make sure "levelEles" can't be zero before doing this division.(ë‘‚€8³ü°¸ž2
+G	java:S106)"+Replace this use of System.out by a logger.(ë‘‚€8µü°¸ž2
+X	java:S125'"<This block of commented-out lines of code should be removed.( é³„8µü°¸ž2
+>
+java:S2111)"!Use "BigDecimal.valueOf" instead.(ë‘‚€8µü°¸ž2
+W	java:S125*"<This block of commented-out lines of code should be removed.(àŒ“(8µü°¸ž2
+C
+java:S2111+"!Use "BigDecimal.valueOf" instead.(ý¯òúÿÿÿÿ8µü°¸ž2
+G	java:S106;"+Replace this use of System.out by a logger.(†’ÿ•8Ô—³¸ž2
+]	java:S125="<This block of commented-out lines of code should be removed.(ú’Ó”ûÿÿÿÿ8Û—³¸ž2
+]	java:S125D"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ8Ä÷²¸ž2
+€
+java:S1128"cRemove this unused import 'leetcode_75.tree.binary_tree_level_order_traversal.LevelOrderTraversal'.(§›ÝÛ8»Ÿ±¸ž2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8»Ÿ±¸ž2

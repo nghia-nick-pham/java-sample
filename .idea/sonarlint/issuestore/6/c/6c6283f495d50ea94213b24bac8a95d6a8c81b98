@@ -1,0 +1,15 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÕ¡ìøÿÿÿÿ
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Ü”«¯üÿÿÿÿ
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+?squid:S1148-"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ð£»ì
+Jsquid:S1481".Remove this unused "timestamp" local variable.(À‚–™ùÿÿÿÿ
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ŽçÑ‘
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü”«¯üÿÿÿÿ

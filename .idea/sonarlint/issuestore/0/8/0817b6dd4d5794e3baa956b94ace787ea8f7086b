@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôˆ¬åüÿÿÿÿ8ƒø¥ş—2
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÒÀ§ıÿÿÿÿ8ù¥ş—2
+]	java:S1254"<This block of commented-out lines of code should be removed.(“¢­ıÿÿÿÿ8ƒù¥ş—2
+]	java:S125:"<This block of commented-out lines of code should be removed.(¾ŒŠüÿÿÿÿ8ù—öş—2
+W	java:S125>"<This block of commented-out lines of code should be removed.(òáÍ8¹¹öş—2
+G	java:S106F"+Replace this use of System.out by a logger.(´¿å8†ù¥ş—2
+t
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÅÌö‰ÿÿÿÿÿ8“‰óş—2
+<
+java:S1659J"Declare "r" on a separate line.(·â±8”‰óş—2
+o
+java:S1128"RRemove this unused import 'leetcode_75.array.minimum_rotated_sorted_array.Sol_01'.(¦®™Ö8¼¹öş—2

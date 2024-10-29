@@ -1,0 +1,14 @@
+
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¢ä›
+V	java:S125	"<This block of commented-out lines of code should be removed.(ÔÏÜéüÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(î¯Üè
+@	java:S106:"+Replace this use of System.out by a logger.(ìÁ¦„
+?	java:S106;"+Replace this use of System.out by a logger.(ì”Œ4
+@	java:S106<"+Replace this use of System.out by a logger.(›Ï’ƒ
+?	java:S106="+Replace this use of System.out by a logger.(ø·ú
+E	java:S106>"+Replace this use of System.out by a logger.(à¦Ã«ÿÿÿÿÿ
+E	java:S106?"+Replace this use of System.out by a logger.(ÊÉ Ìýÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+O
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ

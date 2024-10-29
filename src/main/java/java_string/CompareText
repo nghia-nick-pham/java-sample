@@ -1,0 +1,715 @@
+prompt Importing table t_laf_schema...
+set feedback off
+set define off
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'gradient-color-disabled', 'r224g224b224-r224g224b224');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'foreground-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'font-color', 'r255g255b255-r14g47b68');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'type', 'button');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'gradient-color-rollover', 'r76g175b80-r76g175b80');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'gradient-color-normal', 'r76g192b192-r76g192b192');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'gradient-pressed-middle', 'r76g192b192-r76g192b192');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'font-color-disabled', 'r255g255b255-r169g169b169');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'font-name', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'gradient-pressed-shadow-top', 'r76g192b192');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'gradient-pressed-bottom', 'r76g192b192');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.button', 'gradient-pressed-top', 'r76g192b192');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.canvas', 'background-popup-color', 'r238g246b249');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.canvas', 'type', 'canvas');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.canvas', 'background-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.checkbox', 'rounded-border', 'r156g184b207');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.checkbox', 'background-color', 'r182g204b227');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.checkbox', 'checkx-checky', '12,12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.checkbox', 'type', 'checkbox');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.checkbox', 'select-color', 'r103g201b202');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'prompt-font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'dialog-font', 'Tahoma,14');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'font-foreground-color', 'r62g74b84');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'title-fore-color-active', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'title-fore-color-deactive', 'r204g204b204');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'window-bg-color', 'r245g255b254');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'currency-background-color', 'r191g211b240');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'tab-font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'tab-font-name', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'tab-selected-foreground-color', 'r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'tab-foreground-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'type', 'gui');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'tab-font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'title-font-weight', 'plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'border-round-corners', '0,0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'statusbar-font-name', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'statusbar-font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'table-style', 'yes');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'statusbar-border-color', 'r145g172b200');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'prompt-font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'statusbar-background-color', 'r203g218b231');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'prompt-font-size', '9');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'prompt-font-style', 'PLAIN');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'title-font-name', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'title-font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'title-back-color-active', 'r57g57b57');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'title-back-color-deactive', 'r160g160b164');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'text-foreground-color', 'r34g34b34');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'statusbar-foreground-color', 'r34g34b34');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'statusbar-font-weight', 'plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'tab-selected-colors', 'r203g212b222');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.GUIProperties', 'tab-colors', 'r121g164b204');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'frame-motif', 'tp3');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'gradient-cycle', 'false');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'font-transparent', '1');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'border-color', 'r59g129b210');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'border-width', '0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'background-color', 'r5g52b106,r5g52b106');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'border-bottom-color', 'r0g32b72');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'font-name', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'bottom-border-color', 'r161g191b214');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'font-color', 'r255g255b255-r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'rounded-border', '0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'header-height', '27');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'header-border-top-color', 'r54g66b92');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'type', 'screen_header');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'toolbar-border-top-color', 'r204g219b235');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'toolbar-border-bottom-color', 'r110g141b174');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'header-background-color', 'r37g49b62,r37g49b62');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'gradient-direction', 'UpToDown');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'gradient-cycle-number', '2');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'header-border-right-color', 'r54g66b92');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'header-border-left-color', 'r54g66b92');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header', 'header-border-bottom-color', 'r6g22b53');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'font-weight', 'plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'font-transparent', '1');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'gradient-cycle', 'false');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'frame-motif', 'tp3');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'font-size', '8');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'border-width', '0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'border-color', 'r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'font-name', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'font-color', 'r255g255b255-r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'title-font-transparent', '1');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'title-font-size', '11');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'type', 'header_bar');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'title-font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'title-font-name', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'gradient-direction', 'UpToDown');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'gradient-cycle-number', '2');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'title-font-color', 'r34g34b34-r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'rounded-border', '0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.header_bar', 'background-color', 'r248g249b251,r248g249b251');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'title-font-transparent', '1');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'title-font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'title-font-size', '9');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'title-font-color', 'r255g255b255-r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'title-font-name', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'border-bottom-color', 'r0g32b72');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'background-color', 'r194g213b228,r194g213b228');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'border-color', 'r194g213b228');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'type', 'information_bar');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'border-width', '0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'rounded-border', '0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'font-size', '9');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'font-transparent', '1');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'font-name', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'bottom-border-color', 'r161g191b214');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'font-color', 'r255g255b255-r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'gradient-cycle-number', '2');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'gradient-direction', 'UpToDown');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'gradient-cycle', 'false');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'font-weight', 'plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.information_bar', 'frame-motif', 'tp3');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-background', 'r62g84b104');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-font-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-header-font-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-header-font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-header-background', 'r65g88b110');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-height', '28');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-separator-color', 'r201g219b236');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-header-font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-header-font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-icon-mode', 'on');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-background', 'r55g75b94');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-item-font-color', 'r173g190b206');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-item-font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-item-font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-item-font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-item-background', 'r62g84b104');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'selected-menu-item-font-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-background', 'r65g88b110');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'type', 'menu');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-border-color', 'r162g186b220');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-separator-color', 'r110g141b174');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.menu', 'menu-font-color', 'r173g190b206');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.radio', 'focus-color', 'r255g214b47');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.radio', 'border-color', 'r160g160b160');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.radio', 'background-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.radio', 'type', 'radio');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.radio', 'selected-color', 'r0g230b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.radio', 'font-color', 'r62g74b84');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'subtitle-font-color', 'r64g128b192');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'rounded-border', '0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'background-color', 'r244g244b244,r244g244b244');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'border-color', 'r210g212b215');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'border-bottom-color', '-');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'gradient-direction', 'UpToDown');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'bottom-border-color', null);
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'border-width', '1');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'frame-motif', 'tp3');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'gradient-cycle-number', '2');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.subtitle', 'gradient-cycle', 'false');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'frame-width', '1');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'frame-color', 'r240g240b240');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'inside-color', 'r0g255b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'odd-foreground-color', 'r255g102b102');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'odd-background-color', 'r204g204b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'even-foreground-color', 'r204g0b204');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'even-background-color', 'r153g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'font-weight', 'medium');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'font-size', '5');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'transparency', '1.0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'va-foreground', 'r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'va-font-style', 'plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'va-odd', 'VA_LAF_ODD');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'va-name', 'VS_CURRENT_RECORD_ATRIBUTE');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'va-font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'va-background', 'r251g251b202');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'type', 'body');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'va-font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableBody', 'va-even', 'VA_LAF_EVEN');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'sort-allowed', 'true');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'sort-icon-next', '/sortASCS.gif');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'inside-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'frame-gradient-direction', 'UpToDown');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'frame-rounded-border', '0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'transparency', '1.0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'text-align-offset', '5');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'type', 'header');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'sort-icon-prev', '/sortDESCS.gif');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'text-align', 'left');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'frame-gradient', 'r93g126b158,r93g126b158');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'font-gradient', 'none');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'font-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'background-cycle', 'false');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'background-cycle-number', '2');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'frame-color', 'r111g139b185');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'frame-color-bottom', 'r18g46b102');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'frame-width', '1');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'font-size', '9');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableHeader', 'font-weight', 'Plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tableTitle', 'type', 'title');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'read-only-bevel', 'lowered');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'read-only-background-color', 'r51g255b153');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'read-only-bg-color', 'r232g232b232');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'type', 'text_item');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'read-only-border-color', 'r156g184b207');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'border-edit', 'r76g192b193');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'background-color', 'r102g255b102');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'border-normal', 'r217g217b217');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'border-rollover', 'r76g192b193');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.textField', 'border-read-only-in-table', 'r217g217b217');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.toolbar', 'background-color', 'r238g238b238');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tooltip', 'font-size', '12');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tooltip', 'font-weight', 'plain');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tooltip', 'type', 'tooltip');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tooltip', 'border-color', 'r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tooltip', 'background-color', 'r252g251b203');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tooltip', 'font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tooltip', 'font-color', 'r0g0b0');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'row-height', '22');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'parent-background-color', 'r55g75b94-r55g75b94');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'open-icon', '/arrow2.gif');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'type', 'tree');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'selected-foreground-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'selected-background-color', 'r65g88b110-r65g88b110');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'font-family', 'Arial');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'close-icon', '/arrow1.gif');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'background-color', 'r230g236b240');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'node-foreground-color', 'r255g255b255');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'line-color', 'r51g102b153');
+
+insert into t_laf_schema (SCHEMA_NAME, CSS_TYPE, TAG_NAME, TAG_VALUE)
+values ('DEFAULT', '.tree', 'font-size', '12');
+
+prompt Done.

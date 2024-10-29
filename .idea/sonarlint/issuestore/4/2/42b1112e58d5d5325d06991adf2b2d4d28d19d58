@@ -1,0 +1,11 @@
+
+_
+java:S4929
+"=Provide an override of "read(byte[],int,int)" for this class.(ÑñÈÛúÿÿÿÿ8­Ş‡å›2
+C
+java:S1659"&Declare "outQueue" on a separate line.(¾£¬8…‹ôä›2
+K
+java:S1659")Declare "replacement" on a separate line.(Ïï—’ûÿÿÿÿ8†‹ôä›2
+H
+java:S14819"&Remove this unused "a" local variable.(Óêçóüÿÿÿÿ8‹ôä›2
+X	java:S125I"<This block of commented-out lines of code should be removed.(öğï8·Ş‡å›2

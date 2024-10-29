@@ -1,0 +1,12 @@
+
+~squid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô¨áâþÿÿÿÿ8©£ßîþ,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍŒö®ûÿÿÿÿ8°“Æîþ,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³­¿œùÿÿÿÿ8ˆÎÜïþ,
+Fsquid:S1148#"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÂíÅîþ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÝ–Ë8çÂ“§þ,
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Óéïj8á±Üïþ,
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¾ÉÎÆ8¹âîþ,
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ¸Æôýÿÿÿÿ8©£ßîþ,

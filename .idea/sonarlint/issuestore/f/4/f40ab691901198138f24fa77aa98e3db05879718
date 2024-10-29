@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÏ¶ƒûÿÿÿÿ8ÏŠ³¢2
+L	java:S106&"+Replace this use of System.out by a logger.(Äñî’ıÿÿÿÿ8—Œ³¢2
+L	java:S106)"+Replace this use of System.out by a logger.(ï’ÜÖûÿÿÿÿ8—Œ³¢2
+L	java:S106,"+Replace this use of System.out by a logger.(˜ŞÚùûÿÿÿÿ8˜Œ³¢2
+f
+java:S1128"DRemove this unused import 'com.aspose.pdf.internal.xps.XpsEdgeMode'.(Ğ»ÕÖûÿÿÿÿ8™Œ³¢2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8™Œ³¢2

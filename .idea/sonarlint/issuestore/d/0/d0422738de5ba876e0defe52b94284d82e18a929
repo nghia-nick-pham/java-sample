@@ -1,0 +1,12 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µ˜£ƒøÿÿÿÿ8ñ¡çæ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÏ¶ƒûÿÿÿÿ8€¢çæ2
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8—ƒ£ñ2
+L	java:S106"+Replace this use of System.out by a logger.(Äñî’ıÿÿÿÿ8¨¢çæ2
+L	java:S106"+Replace this use of System.out by a logger.(ï’ÜÖûÿÿÿÿ8©¢çæ2
+L	java:S106"+Replace this use of System.out by a logger.(˜ŞÚùûÿÿÿÿ8ª¢çæ2
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18«¢çæ2
+I
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8«¢çæ2

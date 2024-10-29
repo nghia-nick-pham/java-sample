@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee xmlns:ns2="urn:iso:std:iso:20022:tech:xsd:camt.001.001.01" xmlns:ns3="urn:iso:std:iso:20022:tech:xsd:head.001.001.01" id="1">
+    <ns3:name>Vimal Jaiswal</ns3:name>
+    <ns2:salary>50000.0</ns2:salary>
+</employee>

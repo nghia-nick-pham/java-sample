@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c31c526-443b-486d-aff6-51b19552cd33" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_csv_1_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_email_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_inteview/InterviewMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_inteview/TestForZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_inteview/TestForZ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_inteview/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/connection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/function_identity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/function_identity/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_access_modifier/dessert/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_access_modifier/forest/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/DIY/dijkstra_01/DijkstraExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/DIY/stack_frame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/brute_force_search/SubsetSumBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/CombinationsWithRepetitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/KnapSack_CombinationRepetition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/complete_search/backtracking/n_queen_problem_01/NQueenProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/dynamic_programming/bitmask/BitmaskingDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/dynamic_programming/knapsack_0_1/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/dynamic_programming/knapsack_0_1/KnapSack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/dynamic_programming/optimal_structure/AllPairShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/dynamic_programming/optimal_structure/ShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/generation/binary_sequence/GenerationAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/CoinChange_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/CoinChange_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/CoinChange_CombinationRepetitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/greedy_vs_dp/CoinChangeDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/greedy_vs_dp/CoinChangeGreedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/linkedlist_journal/reverse_linked_list/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/linkedlist_journal/reverse_linked_list/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/linkedlist_leetcode/reverse_linked_list/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/linkedlist_leetcode/reverse_linked_list/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/permutation/repetition/CombinationSum4Optimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/permutation/repetition/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/permutation/repetition/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/permutation/repetition/SolutionHashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/permutation/repetition/Solution_Itegration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/string/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/structure/graph/dijkstra_01/DijkstraExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/structure/tree/breath_first_search/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/structure/tree/making_decision/DecisionTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/structure/tree/making_decision/DecisionTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/structure/tree/making_decision/DecisionTree_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_algorithm/structure/tree/making_decision/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_class/InheritanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/EqualStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/EqualStudent3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/array/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/arraylist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/hashmap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/hashmap/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/iterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/java6_convert_to_array/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/mutable/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/mutable/TestMutaleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_collection/sort/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_common_logging/ExampleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_enum/enumdef/MessageStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_enum/enumdef/ResultStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_functional_programming/default_method/ComparatorByAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_functional_programming/default_method/INormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_functional_programming/default_method/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_functional_programming/default_method/Normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_functional_programming/default_method/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_functional_programming/stream_api/CommonUsedFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_functional_programming/stream_api/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_general/urlclassloader/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_mail/MainTestMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_mail/apache_simple/Sendmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_mail/tls_ssl/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_mail/tls_ssl/Sendmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_memory/heap_and_stack/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_performance/HttpClientExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_performance/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_performance/RequestParamThreadDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_performance/thread_counting/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_performance/thread_test_app_1/JustifiedThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_performance/thread_test_app_1/ModifiedThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_performance/thread_test_app_1/ThreadTestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_quest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_quest/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/Work1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/divide_and_conquer/Plain_Recursion_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/divide_and_conquer/quick_sort/QuickSort_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/fibornaci/FibonacciMemoization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/fibornaci/Main_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/fibornaci/Main_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/fibornaci/Main_03_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/implementation/reference_type/RecursiveArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/implementation/reference_type/RecursiveListModification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/leetcode_conin_change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/longest_increase_subsequence/LIS_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/over_loop/Main_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_recursive/over_loop/RecursiveInForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_rest_api/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_rest_api/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/CompareText" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/MaxCharater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/RevertString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/TabReplaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/WildCartReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/input_stream/ReplaceFilterInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/input_stream/others/InputStreamProcessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/input_stream/that/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/input_stream/that/ReplacingInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/regex/Other.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/regex/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/regex/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/regex/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_string/regex/Text4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_synchronization/sta_method_01/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_synchronization/sta_method_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_synchronization/sta_method_01/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_synchronization/test_1_1/Test4Synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_synchronization/test_1_2/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_util/aspose_pdf/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jnlp/TestJnlp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/buy_and_sell_stock/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/buy_and_sell_stock/Solution_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/container_with_most_water/ContainerTwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/contains_duplicate/Sol1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/max_subarray/Kadane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/max_subarray/MaxSubArraySlideWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/max_subarray/MaxSubArraySlideWindow_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/max_subarray/MaxSubArraySlideWindow_DevideAndConquer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/max_subarray_product/MaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/max_subarray_product/MaxProduct_DevideAndConquer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/max_subarray_product/MaxProduct_Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/minimum_rotated_sorted_array/Sol_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/minimum_rotated_sorted_array/Solution_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/product_except_self/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/search_rotated_sorted_array/SearchRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/three_sum/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/three_sum/ThreeSum_TwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/two_sum/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/array/two_sum/TwoSum_Optimal_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/climbing_stairs/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/combination/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/combination/CombinationSum_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/decode_ways/DecodeWayBottomUpConverting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/decode_ways/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/decode_ways/DecodeWaysBottomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/HouseRobber2Memoization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/HouseRobber2Optimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/HouseRobberMemoization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/group_anagram/GroupAnagramHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/group_anagram/GroupAnagramRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/valid/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/longest_repeating_character_replacement/LongestRepeatingCharacterReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/longest_repeating_character_replacement/LongestRepeatingCharacterReplacement_SlideWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/longest_repeating_character_replacement/LongestRepeatingCharacterReplacement_SlideWindow_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/Palindrome_practice_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/longest_palindrome/ExpandAroundCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/longest_palindrome/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/palyndromic_substrings/PalyndromicSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/palyndromic_substrings/PalyndromicSubstringsCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/palyndromic_substrings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/parentheses/ParentheseStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/parentheses/ParentheseStack_practice_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/parentheses/ParentheseStack_reference_memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/parentheses/Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/sub_string_replacement/SubStringNoReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/sub_string_replacement/SubStringNoReplacement_SlideWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/sub_string_replacement/SubStringNoReplacement_SlideWindow_Practice_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/sub_string_replacement/SubStringReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/window_substring/DynamicCombinationGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/window_substring/MinimumWindowSubstringDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/window_substring/WindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/string/window_substring/WindowSubstringMySelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/average_of_levels_in_binary_tree/AverageLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/binary_tree_level_order_traversal/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/binary_tree_max_depth/BinaryTreeMaxDepth_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/binary_tree_max_depth/BinaryTreeMaxDepth_Recursion_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/construct_binary_tree_preorder_inorder/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/construct_binary_tree_preorder_inorder/ConstructBinaryTree_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/construct_binary_tree_preorder_inorder/ConstructBinaryTree_Optimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/construct_binary_tree_preorder_inorder/ConstructBinaryTree_Practice_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/invert_binary_tree/InvertBinaryTree_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/kth_smallest_element_in_a_bst/KthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/kth_smallest_element_in_a_bst/KthSmallest_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/same_tree/SameTree2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/same_tree/SameTreeBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/same_tree/SameTreeBFS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/subtree_of_another_tree/SB_Practice_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/subtree_of_another_tree/SubTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/subtree_of_another_tree/SubTree1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/symmetric_tree/iteration/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/validate_BST/BinarySearchTreeValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_75/tree/validate_BST/BinarySearchTreeValidation_practice_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/network/server_client_socket/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/network/server_client_socket/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/network/server_client_socket/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/open_library/jsoup/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/open_library/mySQL/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/open_library/quart/CronTriggerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/open_library/quart/HelloJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/TestMethod4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/draft/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/hackerrank/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/hackerrank/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/parking_dilema/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/common/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/common/ExceptionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/crawler/Crawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/dbconnector/ConnectorMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/job/CronTrigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/job/JobCrawlingFull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/job/JobCrawlingPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/model/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/service/CrawlingFull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/eth_01/service/CrawlingPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/resttemplate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/MainSynchronised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/client_server_socket_01/EchoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/client_server_socket_01/MultiThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/other/UnresponsiveUIwThreadSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/process_cmd/ProcessCMD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/producer_subcriber/CrunchifyProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/producer_subcriber/sample_01/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/producer_subcriber/sample_01/CubbyHole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/producer_subcriber/sample_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/producer_subcriber/sample_01/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/synchornization/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/synchornization/CounterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/synchornization/geeksforgeeks/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/synchornization/geeksforgeeks/SyncDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/synchornization/geeksforgeeks/ThreadedSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/synchornization/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/threadpool/sample_01/SimpleThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/threadpool/sample_01/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/MailChecker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/commons-logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_14_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_14_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_core_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_core_01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_enum/TrafficLightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_enum/TrafficLightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_io/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_io/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_string/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_string/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_string/WriteFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_string/WriteFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_util/collection/Map_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_util/collection/Map_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jax/ObjectToXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jax/ObjectToXml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java_enum/TrafficLightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java_enum/TrafficLightTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java_io/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java_io/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java_string/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java_string/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java_string/WriteFileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java_string/WriteFileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java_util/collection/Map_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java_util/collection/Map_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jax/ObjectToXml.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jax/ObjectToXml.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/java_core_01$ObjectCompare.coverage" NAME="ObjectCompare Coverage Results" MODIFIED="1537160153698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>other.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>;</find>
+      <find>regex</find>
+      <find>Counter</find>
+      <find>jsoup</find>
+      <find>process</find>
+      <find>acme</find>
+      <find>TextArea.Append</find>
+      <find>&lt;B</find>
+      <find>&lt;</find>
+      <find>error in the main method</find>
+      <find>info in the main method</find>
+      <find>concu</find>
+      <find>Thread name:</find>
+      <find>pdf</find>
+      <find>DefaultPrettyPrinter$Indenter</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>;\r\n</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Programming\Sample\JavaCore\java_core_01\src</dir>
+      <dir>D:\Programming\Sample\JavaCore\java_core_01\src\main\java\open_library</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Executor.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/java_assert/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/other/hackerrank/Test_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_synchronization/Test4Synchronization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_synchronization/test_1_1/Test4Synchronization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_synchronization/test_1_2/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_rest_api/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_rest_api/Result.java" />
+        <option value="$PROJECT_DIR$/src/main/java/other/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/other/hackerrank/X.java" />
+        <option value="$PROJECT_DIR$/src/main/java/open_library/quart/HelloJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/open_library/quart/CronTriggerExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/open_library/jsoup/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/open_library/mySQL/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/service/CrawlFull.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/service/Crawling.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/dbconnector/ConnectorMySQL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/service/CrawlingPages.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/job/Job_CrawlingPages.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/job/CronTrigger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/common/ExceptionUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/job/JobCrawlingPages.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/job/JobCrawlingFull.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/common/Constant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/common/NumberUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/model/Transaction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/crawler/Crawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/service/CrawlingFull.java" />
+        <option value="$PROJECT_DIR$/src/main/java/project/eth_01/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/connection/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thread/process_cmd/ProcessCMD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_string/MaxCharater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_string/regex/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_class/InheritanceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_collection/hashmap/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/file/logs/log-echo.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/file/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/java_recursive/Sample1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_recursive/Work1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_mail/MainTestMail.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/commons-logging.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/java_common_logging/ExampleClass.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/java_performance/thread_counting/Main1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_performance/thread_test_app_1/ModifiedThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_performance/thread_test_app_1/ThreadTestApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_performance/thread_test_app_1/JustifiedThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_util/aspose_pdf/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/resttemplate/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_performance/MainThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_memory/heap_and_stack/Memory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="InstancesTracker">
+    <option name="classes">
+      <map>
+        <entry key="java.lang.String" value="CREATION" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Lib/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Programming\Lib\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java_core_01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java_core_01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java_core_01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1907" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1YKQCNKeCgctVeAWAFhIO0yqYeC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_core_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_core_01" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_core_01" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+              <item name="abc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_core_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_core_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_core_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_core_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resttemplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_core_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="java_core_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="ojdbc14.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Lib/jar-lib/javax-mail-api-1.6.2-9.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4091954&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;026a033a455d9f14ec1274956d93d301&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="leetcode_75.tree.subtree_of_another_tree" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\Sample\JavaCore\java_core_01\src\main\java\java_enum\enumdef" />
+      <recent name="E:\Programming\Sample\JavaCore\java_core_01\src\main\java\jax" />
+      <recent name="E:\Programming\Sample\JavaCore\java_core_01\src\main\java\model" />
+      <recent name="E:\Programming\Sample\JavaCore\java_core_01\src\main\resources\file" />
+      <recent name="E:\Programming\Sample\JavaCore\java_core_01\src\main\java\slf4j" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\Sample\JavaCore\java_core_01\src\main\resources" />
+      <recent name="D:\Programming\Sample\JavaCore\java_core_01\src\main\resources\file" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode_75.string.longest_repeating_character_replacement" />
+      <recent name="leetcode_75.array.three_sum" />
+      <recent name="leetcode_75.array.max_subarray_product" />
+      <recent name="leetcode_75.array.max_subarray" />
+      <recent name="leetcode_75.array.two_sum" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Other">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App" singleton="true">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" />
+      </method>
+    </configuration>
+    <configuration name="CommonUsedFunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_functional_programming.stream_api.CommonUsedFunctionalInterface" />
+      <module name="java_core_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_functional_programming.stream_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputStreamProcessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_string.input_stream.others.InputStreamProcessTest" />
+      <module name="java_core_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_string.input_stream.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_string.regex.Other" />
+      <module name="java_core_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_string.regex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_75.tree.symmetric_tree.iteration.Solution" />
+      <module name="java_core_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode_75.tree.symmetric_tree.iteration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_functional_programming.default_method.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_functional_programming.default_method.Main" />
+      <module name="java_core_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_functional_programming.default_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Other" />
+      <item itemvalue="Application.InputStreamProcessTest" />
+      <item itemvalue="Application.CommonUsedFunctionalInterface" />
+      <item itemvalue="Application.java_functional_programming.default_method.Main" />
+      <item itemvalue="Application.Solution" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Other" />
+        <item itemvalue="Application.InputStreamProcessTest" />
+        <item itemvalue="Application.CommonUsedFunctionalInterface" />
+        <item itemvalue="Application.java_functional_programming.default_method.Main" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c31c526-443b-486d-aff6-51b19552cd33" name="Default" comment="" />
+      <created>1492529757314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492529757314</updated>
+      <workItem from="1492529761477" duration="1162000" />
+      <workItem from="1492590871511" duration="10000" />
+      <workItem from="1492614600121" duration="5596000" />
+      <workItem from="1492653952705" duration="54000" />
+      <workItem from="1493359864988" duration="622000" />
+      <workItem from="1498305854667" duration="3027000" />
+      <workItem from="1498807218338" duration="1749000" />
+      <workItem from="1499574020799" duration="7200000" />
+      <workItem from="1501605943155" duration="1988000" />
+      <workItem from="1504196616927" duration="1694000" />
+      <workItem from="1504198442086" duration="516000" />
+      <workItem from="1504797585750" duration="902000" />
+      <workItem from="1506227942010" duration="1856000" />
+      <workItem from="1509194989798" duration="3364000" />
+      <workItem from="1514909853324" duration="2133000" />
+      <workItem from="1514945355233" duration="642000" />
+      <workItem from="1515234017109" duration="2365000" />
+      <workItem from="1515255479938" duration="1487000" />
+      <workItem from="1515318674952" duration="2180000" />
+      <workItem from="1517762838498" duration="1075000" />
+      <workItem from="1520586115672" duration="1662000" />
+      <workItem from="1521039322784" duration="957000" />
+      <workItem from="1521078132036" duration="160000" />
+      <workItem from="1521689612049" duration="5856000" />
+      <workItem from="1521990854274" duration="820000" />
+      <workItem from="1522030557615" duration="1387000" />
+      <workItem from="1522074514544" duration="1440000" />
+      <workItem from="1522293502566" duration="2182000" />
+      <workItem from="1522337382678" duration="2393000" />
+      <workItem from="1522374313198" duration="1618000" />
+      <workItem from="1523163155001" duration="1139000" />
+      <workItem from="1523195666816" duration="1635000" />
+      <workItem from="1523239840290" duration="1185000" />
+      <workItem from="1524152713607" duration="985000" />
+      <workItem from="1524912672299" duration="3070000" />
+      <workItem from="1525748956054" duration="2762000" />
+      <workItem from="1525772470263" duration="884000" />
+      <workItem from="1525840897803" duration="984000" />
+      <workItem from="1525842161118" duration="1399000" />
+      <workItem from="1525938625625" duration="701000" />
+      <workItem from="1525970717870" duration="1635000" />
+      <workItem from="1526004581304" duration="2671000" />
+      <workItem from="1526375054202" duration="769000" />
+      <workItem from="1526548698047" duration="2093000" />
+      <workItem from="1526554904947" duration="615000" />
+      <workItem from="1526608988991" duration="810000" />
+      <workItem from="1526962324252" duration="2610000" />
+      <workItem from="1526996701170" duration="1413000" />
+      <workItem from="1527067675213" duration="1946000" />
+      <workItem from="1527128266709" duration="181000" />
+      <workItem from="1527575232463" duration="1886000" />
+      <workItem from="1527646006292" duration="3537000" />
+      <workItem from="1528260398277" duration="4378000" />
+      <workItem from="1530096732609" duration="1120000" />
+      <workItem from="1532342551601" duration="994000" />
+      <workItem from="1535471585349" duration="1586000" />
+      <workItem from="1535516122926" duration="2192000" />
+      <workItem from="1535556197242" duration="769000" />
+      <workItem from="1535614120580" duration="1713000" />
+      <workItem from="1536668305223" duration="819000" />
+      <workItem from="1536904196669" duration="4847000" />
+      <workItem from="1537159987545" duration="2181000" />
+      <workItem from="1537754063667" duration="3504000" />
+      <workItem from="1537928563153" duration="9036000" />
+      <workItem from="1538301198956" duration="649000" />
+      <workItem from="1539164899231" duration="2700000" />
+      <workItem from="1539571808394" duration="2683000" />
+      <workItem from="1539657552693" duration="1497000" />
+      <workItem from="1545579343570" duration="2750000" />
+      <workItem from="1545619022333" duration="109000" />
+      <workItem from="1545732780654" duration="2848000" />
+      <workItem from="1545877977402" duration="25000" />
+      <workItem from="1545882393304" duration="4979000" />
+      <workItem from="1545903656448" duration="591000" />
+      <workItem from="1545926160247" duration="611000" />
+      <workItem from="1545965779284" duration="1875000" />
+      <workItem from="1546397860514" duration="6542000" />
+      <workItem from="1546489017377" duration="8307000" />
+      <workItem from="1546595409036" duration="4036000" />
+      <workItem from="1554044317133" duration="7350000" />
+      <workItem from="1556507597672" duration="2802000" />
+      <workItem from="1556764885874" duration="1025000" />
+      <workItem from="1556784160366" duration="176000" />
+      <workItem from="1556791856355" duration="2453000" />
+      <workItem from="1558519643455" duration="1546000" />
+      <workItem from="1558597963398" duration="2156000" />
+      <workItem from="1558624328597" duration="1223000" />
+      <workItem from="1558887243370" duration="2655000" />
+      <workItem from="1558944015214" duration="5435000" />
+      <workItem from="1559027132335" duration="701000" />
+      <workItem from="1559124120678" duration="773000" />
+      <workItem from="1560304231732" duration="2181000" />
+      <workItem from="1560321138153" duration="1805000" />
+      <workItem from="1564370691056" duration="3367000" />
+      <workItem from="1564406498051" duration="1341000" />
+      <workItem from="1564455271987" duration="1203000" />
+      <workItem from="1565085763097" duration="2497000" />
+      <workItem from="1565147395642" duration="4977000" />
+      <workItem from="1565434950139" duration="1874000" />
+      <workItem from="1565437520285" duration="517000" />
+      <workItem from="1565579899963" duration="3176000" />
+      <workItem from="1568608496757" duration="5814000" />
+      <workItem from="1568703878409" duration="2119000" />
+      <workItem from="1568772115651" duration="1701000" />
+      <workItem from="1569500981847" duration="2048000" />
+      <workItem from="1574246983436" duration="396000" />
+      <workItem from="1574320555989" duration="4843000" />
+      <workItem from="1575962578985" duration="2313000" />
+      <workItem from="1576227265939" duration="3538000" />
+      <workItem from="1576486177498" duration="722000" />
+      <workItem from="1576495090462" duration="265000" />
+      <workItem from="1576552907180" duration="1724000" />
+      <workItem from="1576575139084" duration="524000" />
+      <workItem from="1577355863296" duration="688000" />
+      <workItem from="1579234571400" duration="1911000" />
+      <workItem from="1579318178380" duration="6129000" />
+      <workItem from="1579489621009" duration="1217000" />
+      <workItem from="1582104612427" duration="2361000" />
+      <workItem from="1582169836726" duration="770000" />
+      <workItem from="1582688682507" duration="2991000" />
+      <workItem from="1582723862026" duration="600000" />
+      <workItem from="1582773009279" duration="700000" />
+      <workItem from="1582859732239" duration="2148000" />
+      <workItem from="1582895769314" duration="3000" />
+      <workItem from="1583119109899" duration="1146000" />
+      <workItem from="1583122779986" duration="2000" />
+      <workItem from="1583123691597" duration="36000" />
+      <workItem from="1584951712119" duration="810000" />
+      <workItem from="1585731184162" duration="1830000" />
+      <workItem from="1593143899773" duration="1032000" />
+      <workItem from="1595860298910" duration="1143000" />
+      <workItem from="1596293873343" duration="2410000" />
+      <workItem from="1596644752888" duration="161000" />
+      <workItem from="1597768214842" duration="1019000" />
+      <workItem from="1598112306472" duration="1177000" />
+      <workItem from="1603443795756" duration="2432000" />
+      <workItem from="1605165889345" duration="5283000" />
+      <workItem from="1605239887670" duration="1744000" />
+      <workItem from="1605245448083" duration="3667000" />
+      <workItem from="1606723600996" duration="2193000" />
+      <workItem from="1606884994718" duration="1869000" />
+      <workItem from="1606971110664" duration="2237000" />
+      <workItem from="1607316308038" duration="2525000" />
+      <workItem from="1607400652414" duration="209000" />
+      <workItem from="1611222334396" duration="75000" />
+      <workItem from="1611222419511" duration="1839000" />
+      <workItem from="1611285140315" duration="3317000" />
+      <workItem from="1611563089849" duration="1190000" />
+      <workItem from="1613573110219" duration="1909000" />
+      <workItem from="1613612523475" duration="2385000" />
+      <workItem from="1613705059467" duration="3288000" />
+      <workItem from="1616602256596" duration="1597000" />
+      <workItem from="1616774963633" duration="3383000" />
+      <workItem from="1617003600640" duration="5252000" />
+      <workItem from="1617075804746" duration="1220000" />
+      <workItem from="1617121009238" duration="3442000" />
+      <workItem from="1617164711859" duration="3738000" />
+      <workItem from="1617251609728" duration="1984000" />
+      <workItem from="1621915707422" duration="11941000" />
+      <workItem from="1622047286075" duration="90000" />
+      <workItem from="1622047487479" duration="3988000" />
+      <workItem from="1622085722866" duration="1198000" />
+      <workItem from="1622130809220" duration="6236000" />
+      <workItem from="1622171377678" duration="3807000" />
+      <workItem from="1622209304132" duration="2315000" />
+      <workItem from="1622260169664" duration="15938000" />
+      <workItem from="1622430724864" duration="602000" />
+      <workItem from="1622564666584" duration="556000" />
+      <workItem from="1622733278601" duration="3437000" />
+      <workItem from="1622772999168" duration="1251000" />
+      <workItem from="1625903378269" duration="3836000" />
+      <workItem from="1626060284289" duration="594000" />
+      <workItem from="1626082985539" duration="1578000" />
+      <workItem from="1626145698282" duration="635000" />
+      <workItem from="1626238544159" duration="695000" />
+      <workItem from="1626841940496" duration="2935000" />
+      <workItem from="1631162663769" duration="826000" />
+      <workItem from="1635914342654" duration="1872000" />
+      <workItem from="1635925180347" duration="3936000" />
+      <workItem from="1639715215026" duration="1201000" />
+      <workItem from="1640247556010" duration="2907000" />
+      <workItem from="1640578869168" duration="1960000" />
+      <workItem from="1642154041822" duration="598000" />
+      <workItem from="1648091767664" duration="1341000" />
+      <workItem from="1648178620759" duration="1227000" />
+      <workItem from="1648192360835" duration="1342000" />
+      <workItem from="1648523931258" duration="1239000" />
+      <workItem from="1649840086870" duration="58000" />
+      <workItem from="1649840236812" duration="1968000" />
+      <workItem from="1649903387772" duration="1348000" />
+      <workItem from="1653467671242" duration="12192000" />
+      <workItem from="1654763986502" duration="820000" />
+      <workItem from="1656325189151" duration="936000" />
+      <workItem from="1658196384697" duration="5904000" />
+      <workItem from="1659587950188" duration="3331000" />
+      <workItem from="1660193509552" duration="6379000" />
+      <workItem from="1663744503834" duration="2683000" />
+      <workItem from="1665460244933" duration="3028000" />
+      <workItem from="1665546525086" duration="11623000" />
+      <workItem from="1665632675985" duration="4601000" />
+      <workItem from="1665718193548" duration="3507000" />
+      <workItem from="1665974419959" duration="2385000" />
+      <workItem from="1666061741330" duration="3012000" />
+      <workItem from="1666146923627" duration="2141000" />
+      <workItem from="1666781521614" duration="484000" />
+      <workItem from="1666843611730" duration="2180000" />
+      <workItem from="1667275534533" duration="4453000" />
+      <workItem from="1667358301802" duration="1192000" />
+      <workItem from="1667465053646" duration="597000" />
+      <workItem from="1667535843037" duration="872000" />
+      <workItem from="1667791066683" duration="1447000" />
+      <workItem from="1667877649292" duration="1212000" />
+      <workItem from="1669257559398" duration="38000" />
+      <workItem from="1669363546619" duration="4077000" />
+      <workItem from="1669435998593" duration="446000" />
+      <workItem from="1669438260356" duration="8000" />
+      <workItem from="1669539271779" duration="688000" />
+      <workItem from="1669564611304" duration="1227000" />
+      <workItem from="1669773885055" duration="296000" />
+      <workItem from="1669875933083" duration="624000" />
+      <workItem from="1669952827894" duration="1918000" />
+      <workItem from="1669970723102" duration="1262000" />
+      <workItem from="1670205827023" duration="3279000" />
+      <workItem from="1670463774558" duration="703000" />
+      <workItem from="1671464705056" duration="4138000" />
+      <workItem from="1671507606906" duration="4039000" />
+      <workItem from="1672128135278" duration="1185000" />
+      <workItem from="1672197521646" duration="2497000" />
+      <workItem from="1672731005175" duration="1402000" />
+      <workItem from="1678180093507" duration="2000" />
+      <workItem from="1678180106216" duration="1883000" />
+      <workItem from="1678249192703" duration="2258000" />
+      <workItem from="1678263291536" duration="575000" />
+      <workItem from="1678263922457" duration="675000" />
+      <workItem from="1678349277497" duration="664000" />
+      <workItem from="1679369868320" duration="11295000" />
+      <workItem from="1679630467966" duration="52000" />
+      <workItem from="1680262012527" duration="703000" />
+      <workItem from="1680509290135" duration="7695000" />
+      <workItem from="1685939744306" duration="3951000" />
+      <workItem from="1686025784833" duration="3078000" />
+      <workItem from="1686541392183" duration="672000" />
+      <workItem from="1687754163365" duration="5090000" />
+      <workItem from="1691566169071" duration="5522000" />
+      <workItem from="1691979804862" duration="684000" />
+      <workItem from="1692070593252" duration="485000" />
+      <workItem from="1692605673170" duration="2412000" />
+      <workItem from="1692668584389" duration="541000" />
+      <workItem from="1695110441949" duration="4114000" />
+      <workItem from="1695261675865" duration="535000" />
+      <workItem from="1696391690347" duration="2856000" />
+      <workItem from="1696471531446" duration="21000" />
+      <workItem from="1698995741454" duration="4692000" />
+      <workItem from="1699072985807" duration="5779000" />
+      <workItem from="1699166039623" duration="21000" />
+      <workItem from="1699246092816" duration="1495000" />
+      <workItem from="1699298473515" duration="6279000" />
+      <workItem from="1699412697283" duration="595000" />
+      <workItem from="1699508730875" duration="8000" />
+      <workItem from="1700152695361" duration="2396000" />
+      <workItem from="1700185668553" duration="597000" />
+      <workItem from="1700327092514" duration="1772000" />
+      <workItem from="1700472796381" duration="327000" />
+      <workItem from="1700585623898" duration="1815000" />
+      <workItem from="1700617228982" duration="4372000" />
+      <workItem from="1700623719626" duration="3000" />
+      <workItem from="1700907484263" duration="3944000" />
+      <workItem from="1701054570063" duration="2477000" />
+      <workItem from="1701220396471" duration="6531000" />
+      <workItem from="1701703062906" duration="4866000" />
+      <workItem from="1701754604851" duration="3486000" />
+      <workItem from="1701795438728" duration="2236000" />
+      <workItem from="1701847570347" duration="2391000" />
+      <workItem from="1701877250171" duration="3077000" />
+      <workItem from="1701935267746" duration="11000" />
+      <workItem from="1702283911346" duration="2907000" />
+      <workItem from="1702302709809" duration="2719000" />
+      <workItem from="1702538833502" duration="1175000" />
+      <workItem from="1702564198149" duration="5125000" />
+      <workItem from="1702627154816" duration="1867000" />
+      <workItem from="1702865060938" duration="3082000" />
+      <workItem from="1702914366599" duration="3163000" />
+      <workItem from="1703133689799" duration="9000" />
+      <workItem from="1703146862582" duration="7696000" />
+      <workItem from="1703559410518" duration="1267000" />
+      <workItem from="1703641586056" duration="2183000" />
+      <workItem from="1703685012994" duration="11463000" />
+      <workItem from="1703813849609" duration="3828000" />
+      <workItem from="1703834928909" duration="595000" />
+      <workItem from="1704162014078" duration="15840000" />
+      <workItem from="1704198246590" duration="6972000" />
+      <workItem from="1704331340546" duration="8368000" />
+      <workItem from="1704361409207" duration="11574000" />
+      <workItem from="1704421023595" duration="3285000" />
+      <workItem from="1704442473621" duration="1189000" />
+      <workItem from="1705030083631" duration="4401000" />
+      <workItem from="1705289991936" duration="1226000" />
+      <workItem from="1705391408864" duration="3574000" />
+      <workItem from="1705407149411" duration="4555000" />
+      <workItem from="1705459857808" duration="613000" />
+      <workItem from="1705635225869" duration="33000" />
+      <workItem from="1705636737669" duration="6196000" />
+      <workItem from="1705977811217" duration="820000" />
+      <workItem from="1706757136458" duration="47000" />
+      <workItem from="1709113665934" duration="776000" />
+      <workItem from="1709174101875" duration="49000" />
+      <workItem from="1709463858611" duration="5818000" />
+      <workItem from="1709538008885" duration="98000" />
+      <workItem from="1709559561068" duration="5247000" />
+      <workItem from="1709653606096" duration="2680000" />
+      <workItem from="1709714794653" duration="43000" />
+      <workItem from="1712399610729" duration="297000" />
+      <workItem from="1712477532468" duration="5583000" />
+      <workItem from="1712549918454" duration="28000" />
+      <workItem from="1712656631939" duration="852000" />
+      <workItem from="1712717585005" duration="1589000" />
+      <workItem from="1712768124878" duration="3644000" />
+      <workItem from="1712823636449" duration="2173000" />
+      <workItem from="1712890297497" duration="2881000" />
+      <workItem from="1713063141964" duration="13214000" />
+      <workItem from="1713099535879" duration="3129000" />
+      <workItem from="1713149321036" duration="2304000" />
+      <workItem from="1713187935570" duration="6898000" />
+      <workItem from="1713231549844" duration="3863000" />
+      <workItem from="1713252599249" duration="1245000" />
+      <workItem from="1713598400830" duration="7678000" />
+      <workItem from="1713622672223" duration="4575000" />
+      <workItem from="1713688442718" duration="5630000" />
+      <workItem from="1713702227585" duration="7806000" />
+      <workItem from="1713752579986" duration="1062000" />
+      <workItem from="1713794576776" duration="3099000" />
+      <workItem from="1713888492662" duration="3960000" />
+      <workItem from="1713927984346" duration="108000" />
+      <workItem from="1713964374656" duration="4547000" />
+      <workItem from="1714029595620" duration="28000" />
+      <workItem from="1714061363788" duration="2623000" />
+      <workItem from="1714102243965" duration="676000" />
+      <workItem from="1714204689789" duration="5653000" />
+      <workItem from="1714377225761" duration="617000" />
+      <workItem from="1714387008052" duration="23000" />
+      <workItem from="1714556368274" duration="2423000" />
+      <workItem from="1714570360082" duration="3500000" />
+      <workItem from="1714624538115" duration="4117000" />
+      <workItem from="1714654590445" duration="2470000" />
+      <workItem from="1714664899296" duration="2679000" />
+      <workItem from="1714704785865" duration="1953000" />
+      <workItem from="1714804761243" duration="8043000" />
+      <workItem from="1714827044465" duration="4326000" />
+      <workItem from="1714897696722" duration="2102000" />
+      <workItem from="1714960768640" duration="3020000" />
+      <workItem from="1715005096270" duration="626000" />
+      <workItem from="1715183988982" duration="687000" />
+      <workItem from="1715251795542" duration="5246000" />
+      <workItem from="1715308540313" duration="2191000" />
+      <workItem from="1715334882607" duration="3843000" />
+      <workItem from="1715417558793" duration="6789000" />
+      <workItem from="1715608956359" duration="355000" />
+      <workItem from="1715639454969" duration="4716000" />
+      <workItem from="1715651948254" duration="1516000" />
+      <workItem from="1715691984413" duration="1821000" />
+      <workItem from="1715730646759" duration="1495000" />
+      <workItem from="1715828295916" duration="3814000" />
+      <workItem from="1715844449069" duration="6806000" />
+      <workItem from="1716017846917" duration="5005000" />
+      <workItem from="1716037906763" duration="4546000" />
+      <workItem from="1716064625111" duration="2335000" />
+      <workItem from="1716168933433" duration="2992000" />
+      <workItem from="1716191827049" duration="4584000" />
+      <workItem from="1716211271992" duration="688000" />
+      <workItem from="1716255287862" duration="7650000" />
+      <workItem from="1716288091469" duration="2912000" />
+      <workItem from="1716346959601" duration="18000" />
+      <workItem from="1716386949860" duration="3128000" />
+      <workItem from="1716778747414" duration="16000" />
+      <workItem from="1716870326969" duration="657000" />
+      <workItem from="1716901994567" duration="6494000" />
+      <workItem from="1716951292585" duration="1166000" />
+      <workItem from="1716995570677" duration="711000" />
+      <workItem from="1717072800672" duration="2716000" />
+      <workItem from="1717124532258" duration="2385000" />
+      <workItem from="1717230405883" duration="5519000" />
+      <workItem from="1717246267799" duration="1870000" />
+      <workItem from="1717315754276" duration="2008000" />
+      <workItem from="1717324854721" duration="5146000" />
+      <workItem from="1717423787052" duration="594000" />
+      <workItem from="1717519989239" duration="971000" />
+      <workItem from="1717571512946" duration="32000" />
+      <workItem from="1717864817936" duration="3629000" />
+      <workItem from="1717938116975" duration="2943000" />
+      <workItem from="1718003500648" duration="658000" />
+      <workItem from="1718030335389" duration="3224000" />
+      <workItem from="1718079068683" duration="4545000" />
+      <workItem from="1718090184084" duration="810000" />
+      <workItem from="1718112918057" duration="6135000" />
+      <workItem from="1718206708907" duration="1725000" />
+      <workItem from="1718249921804" duration="146000" />
+      <workItem from="1718528206568" duration="1932000" />
+      <workItem from="1718607796705" duration="1200000" />
+      <workItem from="1718685187105" duration="21000" />
+      <workItem from="1718763936059" duration="7893000" />
+      <workItem from="1718781071632" duration="75000" />
+      <workItem from="1718964572099" duration="2661000" />
+      <workItem from="1718985367681" duration="1719000" />
+      <workItem from="1719049595239" duration="3243000" />
+      <workItem from="1719064690236" duration="597000" />
+      <workItem from="1719131811656" duration="5944000" />
+      <workItem from="1719152003770" duration="3375000" />
+      <workItem from="1719213122252" duration="269000" />
+      <workItem from="1719221164526" duration="859000" />
+      <workItem from="1719289366832" duration="1288000" />
+      <workItem from="1719456399939" duration="3693000" />
+      <workItem from="1719472607934" duration="1684000" />
+      <workItem from="1719817983743" duration="14000" />
+      <workItem from="1720011976708" duration="2945000" />
+      <workItem from="1720195044367" duration="1016000" />
+      <workItem from="1720268258155" duration="4736000" />
+      <workItem from="1720318195099" duration="1568000" />
+      <workItem from="1720339412402" duration="590000" />
+      <workItem from="1720443717699" duration="7764000" />
+      <workItem from="1720519768519" duration="595000" />
+      <workItem from="1720538578817" duration="4101000" />
+      <workItem from="1720576369290" duration="1707000" />
+      <workItem from="1720620684734" duration="8156000" />
+      <workItem from="1720688075022" duration="1791000" />
+      <workItem from="1720705977032" duration="2587000" />
+      <workItem from="1720969430799" duration="5830000" />
+      <workItem from="1721011146893" duration="594000" />
+      <workItem from="1721099162643" duration="3282000" />
+      <workItem from="1721184257892" duration="2336000" />
+      <workItem from="1721200278364" duration="536000" />
+      <workItem from="1721201043550" duration="13000" />
+      <workItem from="1721202718148" duration="1666000" />
+      <workItem from="1721272898641" duration="640000" />
+      <workItem from="1721274772802" duration="1153000" />
+      <workItem from="1721288921158" duration="24000" />
+      <workItem from="1721310745116" duration="2798000" />
+      <workItem from="1721357323668" duration="1493000" />
+      <workItem from="1721374611843" duration="383000" />
+      <workItem from="1721398443326" duration="4422000" />
+      <workItem from="1721440205347" duration="6515000" />
+      <workItem from="1721482804427" duration="3615000" />
+      <workItem from="1721553534730" duration="3621000" />
+      <workItem from="1721568217446" duration="8042000" />
+      <workItem from="1721614258208" duration="5129000" />
+      <workItem from="1721654407644" duration="5493000" />
+      <workItem from="1721702522018" duration="3003000" />
+      <workItem from="1721718850199" duration="2420000" />
+      <workItem from="1721745630380" duration="5727000" />
+      <workItem from="1721795654384" duration="415000" />
+      <workItem from="1722237613194" duration="3811000" />
+      <workItem from="1722248779869" duration="601000" />
+      <workItem from="1722263951007" duration="36000" />
+      <workItem from="1722345415707" duration="6933000" />
+      <workItem from="1722398200631" duration="267000" />
+      <workItem from="1722497171802" duration="1188000" />
+      <workItem from="1722519121636" duration="4882000" />
+      <workItem from="1722570487499" duration="384000" />
+      <workItem from="1723041170605" duration="7569000" />
+      <workItem from="1723975555277" duration="2180000" />
+      <workItem from="1724051112977" duration="635000" />
+      <workItem from="1724082688505" duration="2356000" />
+      <workItem from="1724138450420" duration="598000" />
+      <workItem from="1724160400090" duration="4050000" />
+      <workItem from="1724229176362" duration="1043000" />
+      <workItem from="1724295383238" duration="9000" />
+      <workItem from="1724340454226" duration="7343000" />
+      <workItem from="1724397119232" duration="597000" />
+      <workItem from="1724424920676" duration="4689000" />
+      <workItem from="1724492698707" duration="1349000" />
+      <workItem from="1724642317196" duration="114000" />
+      <workItem from="1725270997555" duration="2529000" />
+      <workItem from="1725283879409" duration="5149000" />
+      <workItem from="1725368964533" duration="8528000" />
+      <workItem from="1725415741467" duration="1190000" />
+      <workItem from="1725435549585" duration="59000" />
+      <workItem from="1725444953466" duration="2531000" />
+      <workItem from="1725460343487" duration="3946000" />
+      <workItem from="1725520268562" duration="13000" />
+      <workItem from="1725524640028" duration="2704000" />
+      <workItem from="1725546721180" duration="1190000" />
+      <workItem from="1725594802836" duration="252000" />
+      <workItem from="1725714053119" duration="628000" />
+      <workItem from="1725789006077" duration="2309000" />
+      <workItem from="1725848813716" duration="612000" />
+      <workItem from="1726049276413" duration="2490000" />
+      <workItem from="1726113626364" duration="9000" />
+      <workItem from="1726155352334" duration="2916000" />
+      <workItem from="1726197868947" duration="786000" />
+      <workItem from="1726218062217" duration="1528000" />
+      <workItem from="1726476627136" duration="26000" />
+      <workItem from="1727101283448" duration="5408000" />
+      <workItem from="1727162019852" duration="7000" />
+      <workItem from="1727162503699" duration="2945000" />
+      <workItem from="1727187690527" duration="1229000" />
+      <workItem from="1727251928352" duration="1218000" />
+      <workItem from="1727603530776" duration="4302000" />
+      <workItem from="1727617697308" duration="6791000" />
+      <workItem from="1727671204125" duration="12000" />
+      <workItem from="1729570813779" duration="1094000" />
+      <workItem from="1729581006104" duration="4261000" />
+      <workItem from="1729652856987" duration="599000" />
+      <workItem from="1729753890064" duration="1572000" />
+      <workItem from="1729828786476" duration="1944000" />
+      <workItem from="1729997772700" duration="1212000" />
+      <workItem from="1730211340849" duration="951000" />
+      <workItem from="1730212367995" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="thread_in_java_core_01 - 2020.08.22 at 23h 05m 33s.xml">
+      <configuration name="thread in java_core_01" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="252583000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1907" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18462372" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30552545" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55908096" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32719395" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32593393" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32993016" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1924307" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30552545" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29102844" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32719395" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3293928" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32993016" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/file/ReadObject.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/other/reference/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_resource/Main_Test.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_resource/MyResource.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_resource/MyResource.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_general/MainTestForLoop.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_general/MainTestForLoop.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_string/BreakLineTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_date/testTimeZone.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/ProcessBuilderExample2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/ProcessBuilderExample2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_string/UpperCaseTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_string/UpperCaseTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_io/FilePermissionTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_io/FilePermissionTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_io/FilePermissionTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/intellij/debugger/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" log-stack="true" type="java-line">
+          <condition disabled="true" expression="&quot;b2&quot;.equals(i)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/intellij/debugger/Main.java</url>
+          <line>24</line>
+          <log-expression disabled="true" expression="tmpI" language="JAVA" />
+          <properties>
+            <class-filters>
+              <class-filter pattern="intellij.common.TmpClass" />
+            </class-filters>
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/intellij/debugger/Main.java</url>
+          <line>18</line>
+          <properties>
+            <option name="class-filters-enabled" value="true" />
+            <class-filters>
+              <class-filter pattern="intellij.common.TmpClass" />
+            </class-filters>
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/future/CallableWorkerThread.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_enum/TrafficLightTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/synchornization/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/synchornization/CounterThread.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/producer_subcriber/CrunchifyProducerConsumer.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/producer_subcriber/CrunchifyProducerConsumer.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/threadpool/sample_01/SimpleThreadPool.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/other/MainTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_collection/sort/MainTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_collection/sort/MainTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_rest_api/Result.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_rest_api/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_rest_api/Result.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/project/eth_01/service/CrawlingPages.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/project/eth_01/service/CrawlingPages.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/project/eth_01/crawler/Crawler.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/project/eth_01/crawler/Crawler.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/project/eth_01/crawler/Crawler.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/project/eth_01/crawler/Crawler.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/project/eth_01/job/JobCrawlingFull.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/connection/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/thread/process_cmd/ProcessCMD.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/Work1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_memory/heap_and_stack/Memory.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_memory/heap_and_stack/Memory.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_quest/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_general/urlclassloader/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_general/urlclassloader/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_general/urlclassloader/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_general/urlclassloader/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_collection/iterator/Main.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_synchronization/sta_method_01/Display.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/leetcode_conin_change.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/leetcode_conin_change.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/linkedlist_leetcode/reverse_linked_list/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/linkedlist_journal/reverse_linked_list/ReverseLinkedList.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/a_inteview/InterviewMain.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/a_inteview/InterviewMain.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/buy_and_sell_stock/Solution_02.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_collection/array/MergeSort.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/minimum_rotated_sorted_array/Solution_01.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/generation/binary_sequence/GenerationAlgorithm.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/climbing_stairs/ClimbingStairs.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/divide_and_conquer/quick_sort/QuickSort_01.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/divide_and_conquer/quick_sort/QuickSort_01.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/divide_and_conquer/quick_sort/QuickSort_01.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/divide_and_conquer/quick_sort/QuickSort_01.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/structure/graph/dijkstra_01/DijkstraExample.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/structure/graph/dijkstra_01/DijkstraExample.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/structure/graph/dijkstra_01/DijkstraExample.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/DIY/dijkstra_01/DijkstraExample.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/DIY/dijkstra_01/DijkstraExample.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/DIY/dijkstra_01/DijkstraExample.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/dynamic_programming/knapsack_0_1/KnapSack.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/dynamic_programming/knapsack_0_1/GFG.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/CoinChange_01.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/CoinChange_01.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/CoinChange_01.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/CoinChange_02.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/GFG.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/GFG.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/CombinationsWithRepetitions.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/CombinationsWithRepetitions.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/Combinations.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/CoinChange_CombinationRepetitions.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/CoinChange_CombinationRepetitions.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/CombinationsWithRepetitions.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/CombinationsWithRepetitions.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/CombinationsWithRepetitions.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/DIY/stack_frame/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/KnapSack_CombinationRepetition.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/combination/repetition/KnapSack_CombinationRepetition.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/longest_increase_subsequence/LIS_01.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/longest_increase_subsequence/LIS_01.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/over_loop/Main_01.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/over_loop/Main_01.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/over_loop/RecursiveInForLoop.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/sub_string_replacement/SubStringNoReplacement.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/greedy_vs_dp/CoinChangeGreedy.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/greedy/dymanic_programming/coin_change/greedy_vs_dp/CoinChangeDP.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/permutation/repetition/GFG.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/CombinationSum.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/permutation/repetition/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/implementation/reference_type/RecursiveListModification.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_recursive/implementation/reference_type/RecursiveArrayList.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/combination/CombinationSum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/combination/CombinationSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/combination/CombinationSum.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/combination/CombinationSum.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/combination/CombinationSum.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/HouseRobber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/HouseRobber.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/HouseRobber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/HouseRobberMemoization.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/house_robber/HouseRobber/HouseRobber2Memoization.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/decode_ways/DecodeWays.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/dynamic_programming/decode_ways/DecodeWaysBottomUp.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/window_substring/MinimumWindowSubstringDP.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/window_substring/MinimumWindowSubstringDP.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/window_substring/DynamicCombinationGenerator.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/valid/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/GroupAnagram.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/GroupAnagram.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/group_anagram/GroupAnagramRecursion.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/anagram/group_anagram/GroupAnagramRecursion.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/Palindrome.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/longest_palindrome/LongestPalindrome.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="left==1" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/palyndrome/longest_palindrome/ExpandAroundCenter.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/structure/tree/breath_first_search/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/tree/binary_tree_max_depth/BinaryTreeMaxDepth_BFS.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/tree/same_tree/SameTreeBFS1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/structure/tree/making_decision/DecisionTreeDemo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/structure/tree/making_decision/DecisionTreeDemo.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java_algorithm/structure/tree/making_decision/DecisionTreeDemo.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/tree/subtree_of_another_tree/SubTree1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/tree/subtree_of_another_tree/SubTree1.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/tree/construct_binary_tree_preorder_inorder/BinaryTree.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/tree/kth_smallest_element_in_a_bst/KthSmallest_02.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/tree/kth_smallest_element_in_a_bst/KthSmallest_02.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/window_substring/WindowSubstringMySelf.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/tree/validate_BST/BinarySearchTreeValidation_practice_01.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/longest_repeating_character_replacement/LongestRepeatingCharacterReplacement.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/string/longest_repeating_character_replacement/LongestRepeatingCharacterReplacement_SlideWindow.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/product_except_self/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="product == 1000000000" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/max_subarray_product/MaxProduct_DevideAndConquer.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/max_subarray_product/MaxProduct_Sample.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/search_rotated_sorted_array/SearchRotatedSortedArray.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/three_sum/ThreeSum.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/three_sum/ThreeSum.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/three_sum/ThreeSum.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/array/container_with_most_water/ContainerTwoPointer.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_75/tree/average_of_levels_in_binary_tree/AverageLevel.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayStoreException" package="java.lang" />
+          <option name="timeStamp" value="117" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="tmpMap.get(Integer.valueOf(inputArray[i]))" language="JAVA" />
+        <watch expression="i" />
+        <watch expression="arrLst.get(0)" />
+        <watch expression="i % 1000" language="JAVA" />
+        <watch expression="inputArray[i]" language="JAVA" />
+        <watch expression="(l + r) % 2" language="JAVA" />
+        <watch expression="grph[ux][vx]" language="JAVA" />
+        <watch expression="dest[ux] + grph[ux][vx]" language="JAVA" />
+        <watch expression="strTemp" language="JAVA" />
+        <watch expression="strInput.length()" language="JAVA" />
+        <watch expression="strInput.charAt(i)" language="JAVA" />
+        <watch expression="lstStr.get(3)==&quot;0&quot;" language="JAVA" />
+        <watch expression="s.charAt(i)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_core_01$thread_in_java_core_01.ic" NAME="thread in java_core_01 Coverage Results" MODIFIED="1598112325397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>thread.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_core_01$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1713090295723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>java_algorithm.permutation.repetition.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_core_01$SameTreeBFS1.ic" NAME="SameTreeBFS1 Coverage Results" MODIFIED="1717336784648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode_75.tree.same_tree.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>ele.child(8)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ele.child(8).closest(&quot;a&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>&quot;b2&quot;.equals(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>i % 1000</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>tmpI</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="filteringjava.lang.String">
+      <expression>
+        <expression-string>855</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String@2547</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/project/eth_01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_string/MaxCharater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9690">
+          <caret line="570" column="86" selection-start-line="570" selection-start-column="71" selection-end-line="570" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_string/regex/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_string/regex/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9248">
+          <caret line="544" column="16" selection-start-line="544" selection-start-column="16" selection-end-line="544" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_collection/hashmap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_class/InheritanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_collection/hashmap/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/project/eth_01/dbconnector/ConnectorMySQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/project/eth_01/job/CronTrigger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/connection/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/project/eth_01/model/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/project/eth_01/service/CrawlingFull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="51" column="74" selection-start-line="51" selection-start-column="74" selection-end-line="51" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/project/eth_01/service/CrawlingPages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/file/ReadObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/file/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_recursive/Sample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/file/logs/log-echo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="66" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_mail/MainTestMail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="907">
+          <caret line="124" selection-start-line="32" selection-start-column="4" selection-end-line="124" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Lib/jar-lib/commons-logging-1.0.4.jar!/org/apache/commons/logging/Log.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/HttpClientExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/app.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_recursive/Work1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_common_logging/ExampleClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/commons-logging.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Lib/jar-lib/commons-logging-1.0.4.jar!/org/apache/commons/logging/LogFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thread/threadpool/sample_01/SimpleThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/thread_counting/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/thread_test_app_1/JustifiedThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/thread_test_app_1/ThreadTestApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/RequestParamThreadDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/thread_test_app_1/ModifiedThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/commons-logging.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/abc/app.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/project/eth_01/crawler/Crawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="65" column="109" selection-start-line="65" selection-start-column="109" selection-end-line="65" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_util/aspose_pdf/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/resttemplate/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_memory/heap_and_stack/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/MainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2102#2103#0" expanded="true" />
+            <element signature="e#2170#2171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/intellij/common/TmpClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/intellij/debugger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4675">
+          <caret line="315" column="8" selection-start-line="315" selection-start-column="8" selection-end-line="315" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5542">
+          <caret line="381" column="18" selection-start-line="381" selection-start-column="18" selection-end-line="381" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5406">
+          <caret line="383" column="30" selection-start-line="383" selection-start-column="30" selection-end-line="383" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="46" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6885">
+          <caret line="446" column="11" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
+          <folding>
+            <element signature="e#15020#15021#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_memory/heap_and_stack/Memory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38473642" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38473642" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java_core_01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38473642" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38473642" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

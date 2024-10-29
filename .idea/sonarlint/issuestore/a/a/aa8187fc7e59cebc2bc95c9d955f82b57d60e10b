@@ -1,0 +1,16 @@
+
+nsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ÂÓ÷Áýÿÿÿÿ8ááÙæ€-
+isquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(õ‡ÚÐ8ááÙæ€-
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ááÙæ€-
+isquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(ñ±™Œ8ááÙæ€-
+]squid:S3725":Replace this with a call to the "toFile().exists()" method( ÖáÓýÿÿÿÿ8Ñ¢ßæ€-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8´Åáæ€-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ØØáæ€-
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(á°³ûÿÿÿÿ8ááÙæ€-
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(¼ÌÌÔüÿÿÿÿ8ááÙæ€-
+isquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(Ä„Ä·8ááÙæ€-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±Ôœ²8áòàæ€-
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(äÎŽýøÿÿÿÿ8ááÙæ€-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜Ï…¨8œõâæ€-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µÈ¢þûÿÿÿÿ8¼äÝæ€-
