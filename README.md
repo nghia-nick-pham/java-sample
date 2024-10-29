@@ -1,2 +1,1 @@
-# java-sample 
-# 123
+# java-sample for core
