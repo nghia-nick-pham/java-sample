@@ -2,6 +2,7 @@ package java_string.input_stream.that;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
+import java.io.InputStream;
 
 public class Main {
 
@@ -9,6 +10,7 @@ public class Main {
         byte[] bytes;
         ByteArrayInputStream bis;
         ReplacingInputStream ris;
+        InputStream is;
         ByteArrayOutputStream bos;
         try {
 //            bytes = "hello xyz world.".getBytes("UTF-8");
@@ -16,11 +18,11 @@ public class Main {
             bis = new ByteArrayInputStream(bytes);
 
 //            ris = new ReplacingInputStream(bis, "/liteca-be-LITECA-582/api/images/", "");
-            ris = new ReplacingInputStream(bis, "/liteca-be-LITECA-582/api/images/", "");
+            is = new ReplacingInputStream(bis, "/liteca-be-LITECA-582/api/images/", "");
             bos = new ByteArrayOutputStream();
 
             int b;
-            while (-1 != (b = ris.read()))
+            while (-1 != (b = is.read()))
                 bos.write(b);
 
 //            assertEquals("hello  world.", bos.toString());

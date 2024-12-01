@@ -1,0 +1,222 @@
+{
+    "type": "print_preview",
+    "content": [
+        {
+            "type": "template",
+            "attrs": {
+                "name": "LITECA-582 test template"
+            },
+            "content": [
+                {
+                    "type": "doc",
+                    "attrs": {
+                        "layout": "document",
+                        "fontFamily": "Arial",
+                        "counterMode": "short",
+                        "counterTop": 4,
+                        "counterContent": "",
+                        "fontSize": 11.0,
+                        "counterLeft": 171,
+                        "direction": "ltr"
+                    },
+                    "content": [
+                        {
+                            "type": "page",
+                            "attrs": {
+                                "margin": "auto",
+                                "orientation": "portrait",
+                                "rectoVerso": 0,
+                                "outputBin": 0,
+                                "precedence": false,
+                                "indentBottom": 5.0,
+                                "indentRight": 5.0,
+                                "chartGraphic": "portrait 10",
+                                "indentTop": 5.0,
+                                "width": 210.0,
+                                "indentLeft": 5.0,
+                                "direction": "ltr",
+                                "height": 297.0
+                            },
+                            "content": [
+                                {
+                                    "type": "start",
+                                    "attrs": {
+                                        "background": "#FFFFFF",
+                                        "width": 0.0
+                                    },
+                                    "content": []
+                                },
+                                {
+                                    "type": "header",
+                                    "attrs": {
+                                        "background": "#FFFFFF",
+                                        "height": 25.0
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "imx_paragraph",
+                                            "attrs": {
+                                                "variableType": "regular",
+                                                "variableOptional": false,
+                                                "name": "liteca-582 paragr1",
+                                                "nested": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "body",
+                                    "attrs": {
+                                        "indentRight": 0.0,
+                                        "columnGap": 0.0,
+                                        "indentTop": 0.0,
+                                        "background": "#FFFFFF",
+                                        "indentLeft": 0.0,
+                                        "indentBottom": 0.0
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "imx_paragraph",
+                                            "attrs": {
+                                                "variableType": "conditional",
+                                                "variableOptional": false,
+                                                "variableName": "ds_catdoss_DEI",
+                                                "name": "liteca-582 paragr2",
+                                                "variableOperator": "eq",
+                                                "nested": true,
+                                                "variableResult": "10"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "footer",
+                                    "attrs": {
+                                        "background": "#FFFFFF",
+                                        "height": 37.0
+                                    },
+                                    "content": []
+                                },
+                                {
+                                    "type": "end",
+                                    "attrs": {
+                                        "background": "#FFFFFF",
+                                        "width": 0.0
+                                    },
+                                    "content": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "imx_paragraphs",
+            "content": [
+                {
+                    "type": "imx_paragraph",
+                    "attrs": {
+                        "name": "liteca-582 paragr1"
+                    },
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "align": null,
+                                "color": null,
+                                "direction": "ltr",
+                                "editable": true,
+                                "id": "1493230d-0a3d-4d2b-b9f1-1638de485f3e",
+                                "pageBreak": false,
+                                "indentLeft": 0,
+                                "indentRight": 0,
+                                "lineSpacing": 1,
+                                "paddingBottom": 0,
+                                "paddingTop": 0,
+                                "variableType": "repeatable",
+                                "variableName": "3MIDBConcentration2",
+                                "variableOperator": null,
+                                "variableResult": null,
+                                "borderStyle": "none",
+                                "class": null,
+                                "highlight": false,
+                                "fontSize": null
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "marks": [
+                                        {
+                                            "type": "font-family",
+                                            "attrs": {
+                                                "name": "default"
+                                            }
+                                        }
+                                    ],
+                                    "text": "this is repeatable paragraph  /liteca-be-LITECA-582/api/images/47.gif"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "imx_paragraph",
+                    "attrs": {
+                        "name": "liteca-582 paragr2"
+                    },
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "align": null,
+                                "color": null,
+                                "direction": "ltr",
+                                "editable": true,
+                                "id": "454e5d5f-778f-4e06-a844-0d0fe8bcd223",
+                                "pageBreak": false,
+                                "indentLeft": 0,
+                                "indentRight": 0,
+                                "lineSpacing": 1,
+                                "paddingBottom": 0,
+                                "paddingTop": 0,
+                                "variableType": "normal",
+                                "variableName": null,
+                                "variableOperator": null,
+                                "variableResult": null,
+                                "borderStyle": "none",
+                                "class": null,
+                                "highlight": false,
+                                "fontSize": null
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "marks": [
+                                        {
+                                            "type": "font-family",
+                                            "attrs": {
+                                                "name": "default"
+                                            }
+                                        },
+                                        {
+                                            "type": "mark-conditional",
+                                            "attrs": {
+                                                "class": "mark-conditional ProseMirror-mark-conditional cdx-mark-conditional",
+                                                "id": "b023bb0a-b456-4480-81cf-13636352b420",
+                                                "variable": "3MIDBConcentration",
+                                                "variableOperator": "eq",
+                                                "variableResult": "10"
+                                            }
+                                        }
+                                    ],
+                                    "text": "this is conditional text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
